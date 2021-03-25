@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sethhalsey.me/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://sethhalsey.me/github)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=SethTheKings&label=Views&color=blue&style=plastic)
 
 I'm a MiddleSchool student planing to enter the space feild when I am older 🚀. I am not the best coder but I stil endjoy learning it 💻. I really am fascinated with space travel 🌌. As one day I want to go to mars 🪐. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I am also planning on making a FiveM server soon.
 
