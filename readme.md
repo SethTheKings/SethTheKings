@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Seth!](https://github.com/seththekings/)
 
-<img align="right" height="60" width="60" alt="" src="/pfp.jpg" />
+<img align="right" height="60" width="60" alt="" src="http://sethhalsey.me/pfp.jpg" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://sethhalsey.me/discord)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://sethhalsey.me/youtube)
