@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=SethTheKings&label=Views&color=blue&style=plastic)
 
-I'm a MiddleSchool student planing to enter the space feild when I am older 🚀. I am not the best coder but I stil endjoy learning it 💻. I really am fascinated with space travel 🌌. As one day I want to go to mars 🪐. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I am also planning on making a FiveM server soon.
+I'm a Middle School student planning to enter the space field when I am older 🚀. I am not the best coder but I still enjoy learning it 💻. I really am fascinated with space travel 🌌. As one day I want to go to mars 🪐. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I am also planning on making a FiveM server soon.
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/devingondiscord)
 
