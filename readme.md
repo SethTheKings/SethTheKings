@@ -42,8 +42,8 @@ I'm a Middle School student planning to enter the space field when I am older �
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- Laptop: Lenovo Laptop
-- Browser: Google Chrome Browser
+- PC: iBuyPower
+- Browser: Brave
 - Code Editor: VSCode
 - Stay Updated: [YouTube](https://www.youtube.com/channel/UCR3SrWsSgD4aM79MtjN68jA), [Discord](sethhalsey.me/discord)
 
